@@ -1,0 +1,9 @@
+{
+  "name": "Doçe Preço PRO",
+  "short_name": "DoçePreço",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FBF5EE",
+  "theme_color": "#6B1A2A",
+  "lang": "pt-BR"
+}
